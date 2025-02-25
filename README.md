@@ -26,4 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=behnam03&show_icons=true&locale=en" alt="behnam03" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=behnam03&label=Profile%20views&color=0e75b6&style=flat" alt="behnam03" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=behnam03" alt="behnam03" /></a> </p>
