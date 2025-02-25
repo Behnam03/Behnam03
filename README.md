@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-💡 A passionate programmer from Germany
+- 💡 A passionate programmer from Germany
 
 - 🌱 I’m currently learning **Python**
 
