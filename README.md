@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-A passionate programmer from Germany
+💡 A passionate programmer from Germany
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=behnam03&label=Profile%20views&color=0e75b6&style=flat" alt="behnam03" /> </p>
 
